@@ -1,5 +1,7 @@
 ### Hi there 👋
+### I'm a sophmore computer science student at the university of maryland!
 
+[![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanmasiello)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **evanmasiello/evanmasiello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
