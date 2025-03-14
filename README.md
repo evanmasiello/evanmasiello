@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm a sophmore computer science student at the university of maryland!
+### I'm a junior computer science student at the university of maryland!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanmasiello)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Evans's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanmasiello)](https://github.com/anuraghazra/github-readme-stats) -->
